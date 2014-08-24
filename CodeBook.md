@@ -1,440 +1,442 @@
+#Code Book for TidyData.txt
+
 **Subject_ID** 
-* content : this is the id number of various participants in the study
-* source  : subject_test.txt, subject_train.txt
-* values  : 1 through 30
+* description : this is the id number of various participants in the study
+* sources     : subject_test.txt, subject_train.txt
+* values      : 1 through 30
  
 **Activity_Description** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAcc_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAcc_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
   
 **tBodyAccJerk_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerk_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerk_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerk_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerk_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerk_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyro_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerk_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccMag_mean** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccMag_std** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAccMag_mean** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tGravityAccMag_std** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerkMag_mean**  
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyAccJerkMag_std** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroMag_mean** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroMag_std** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
   
 **tBodyGyroJerkMag_mean** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **tBodyGyroJerkMag_std** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_std_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_std_Y**  
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_meanFreq_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_meanFreq_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAcc_meanFreq_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_mean_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_std_X  
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_std_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_std_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_meanFreq_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_meanFreq_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccJerk_meanFreq_Z** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_mean_X** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_mean_Y** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_mean_Z**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_std_X**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_std_Y**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_std_Z**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_meanFreq_X**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_meanFreq_Y**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyGyro_meanFreq_Z**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccMag_mean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccMag_std**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyAccMag_meanFreq**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyAccJerkMag_mean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyAccJerkMag_std**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyAccJerkMag_meanFreq**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroMag_mean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroMag_std**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroMag_meanFreq**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroJerkMag_mean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroJerkMag_std**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **fBodyBodyGyroJerkMag_meanFreq**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_tBodyAccMean_gravity**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_tBodyAccJerkMean_gravityMean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
   
 **angle_tBodyGyroMean_gravityMean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_tBodyGyroJerkMean_gravityMean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_X_gravityMean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_Y_gravityMean** 
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
 **angle_Z_gravityMean**
-* content :   
-* source  :  
-* values  :  
+* description :   
+* sources     :  
+* values      :  
  
