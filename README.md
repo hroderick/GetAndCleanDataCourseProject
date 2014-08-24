@@ -25,16 +25,20 @@ The remainder summarizes the steps taken to transform the raw data into tidy dat
   4. Stacked the combined train and target data frames into a single data frame. 
      
 >At this point requirement number 1 was complete. 
+
   5. For extra credit, removed large dataframes that were no longer needed and did garbage collection to free up memory
   6. Merged an activity description colunmn onto the data frame. 
      
 >At this point requirement number 3 was complete. 
+
   7. Dropped all columns not needed in the TidyData output, retaining only the subject, activity description, and measures described with *mean* or *std* phrasing. 
  
->At this point requirement number 2 was complete. 
+>At this point requirement number 2 was complete.
+
   8. Replaced generic column names with names derived from the raw data meta data. To make them prettier, empty parenthesis were removed, filled parenthesis and commas were replaced with underscores. 
      
 >At this point requirement number 4 was complete. 
+
   9. Melted and recast ther data into a tidy data frame with the mean of each measure summarized for each subject and activity.
   10. Wrote out the tidy data frame to TidyData.txt file
      
