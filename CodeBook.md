@@ -3,7 +3,7 @@
 ##Attribute Columns
 
 **Subject_ID** 
-* description : this is the id number of various participants in the study
+* description : this is the id number of various participants in the study. All were between ages of 19 and 48.
 * sources     : subject_test.txt, subject_train.txt
 * values      : discrete integers, 1 through 30, with omissions possible
  
@@ -19,7 +19,7 @@
 ## Measure Columns
 
 All measures have been sumarrized to give the average of all observations for a given subject and activity.
-Of available measures, only those providing mean or standard deviation values were included
+Of available measures, only those providing mean or standard deviation values were included. All measures are normalized and bounded within [-1,1]
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
