@@ -3,12 +3,12 @@
 **Subject_ID** 
 * description : this is the id number of various participants in the study
 * sources     : subject_test.txt, subject_train.txt
-* values      : 1 through 30
+* values      : discrete integers, 1 through 30, with omissions possible
  
 **Activity_Description** 
 * description : This is a category of the observed activity when measurement was taken  
 * sources     : y_test.txt, y_train.txt, activity_labels.txt 
-* values      : WALKING
+* values      : discrete strings - WALKING
 , WALKING_UPSTAIRS
 , WALKING_DOWNSTAIRS, SITTING
 ,  STANDING, LAYING
