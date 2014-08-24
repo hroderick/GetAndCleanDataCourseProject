@@ -3,89 +3,421 @@
 * source  : subject_test.txt, subject_train.txt
 * values  : 1 through 30
  
-**Activity_Description**
-**tBodyAcc_mean_X**
-**tBodyAcc_mean_Y**
-**tBodyAcc_mean_Z**
-**tBodyAcc_std_X**
-**tBodyAcc_std_Y**
-**tBodyAcc_std_Z**
-**tGravityAcc_mean_X**
-**tGravityAcc_mean_Y**
-**tGravityAcc_mean_Z**
-**tGravityAcc_std_X**
-**tGravityAcc_std_Y**
+**Activity_Description** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAcc_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAcc_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAcc_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAcc_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAcc_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAcc_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
 **tGravityAcc_std_Z** 
-**tBodyAccJerk_mean_X**
-**tBodyAccJerk_mean_Y**
-**tBodyAccJerk_mean_Z**
-**tBodyAccJerk_std_X**
-**tBodyAccJerk_std_Y**
-**tBodyAccJerk_std_Z**
-**tBodyGyro_mean_X**
-**tBodyGyro_mean_Y**
-**tBodyGyro_mean_Z**
-**tBodyGyro_std_X**
-**tBodyGyro_std_Y**
-**tBodyGyro_std_Z**
-**tBodyGyroJerk_mean_X**
-**tBodyGyroJerk_mean_Y**
-**tBodyGyroJerk_mean_Z**
-**tBodyGyroJerk_std_X**
-**tBodyGyroJerk_std_Y**
-**tBodyGyroJerk_std_Z**
-**tBodyAccMag_mean**
-**tBodyAccMag_std**
-**tGravityAccMag_mean**
-**tGravityAccMag_std**
-**tBodyAccJerkMag_mean** 
-**tBodyAccJerkMag_std**
-**tBodyGyroMag_mean**
+* content :   
+* source  :  
+* values  :  
+  
+**tBodyAccJerk_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerk_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerk_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerk_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerk_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerk_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyro_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerk_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccMag_mean** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccMag_std** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAccMag_mean** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tGravityAccMag_std** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerkMag_mean**  
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyAccJerkMag_std** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroMag_mean** 
+* content :   
+* source  :  
+* values  :  
+ 
 **tBodyGyroMag_std** 
-**tBodyGyroJerkMag_mean**
-**tBodyGyroJerkMag_std**
-**fBodyAcc_mean_X**
-**fBodyAcc_mean_Y**
-**fBodyAcc_mean_Z**
-**fBodyAcc_std_X**
-**fBodyAcc_std_Y** 
-**fBodyAcc_std_Z**
-**fBodyAcc_meanFreq_X**
-**fBodyAcc_meanFreq_Y**
-**fBodyAcc_meanFreq_Z**
-**fBodyAccJerk_mean_X**
-**fBodyAccJerk_mean_Y**
-**fBodyAccJerk_mean_Z**
-**fBodyAccJerk_std_X 
-**fBodyAccJerk_std_Y**
-**fBodyAccJerk_std_Z**
-**fBodyAccJerk_meanFreq_X**
-**fBodyAccJerk_meanFreq_Y**
-**fBodyAccJerk_meanFreq_Z**
-**fBodyGyro_mean_X**
+* content :   
+* source  :  
+* values  :  
+  
+**tBodyGyroJerkMag_mean** 
+* content :   
+* source  :  
+* values  :  
+ 
+**tBodyGyroJerkMag_std** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_std_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_std_Y**  
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_meanFreq_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_meanFreq_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAcc_meanFreq_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_mean_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_std_X  
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_std_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_std_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_meanFreq_X** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_meanFreq_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyAccJerk_meanFreq_Z** 
+* content :   
+* source  :  
+* values  :  
+ 
+**fBodyGyro_mean_X** 
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_mean_Y** 
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_mean_Z**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_std_X**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_std_Y**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_std_Z**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_meanFreq_X**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_meanFreq_Y**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyGyro_meanFreq_Z**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyAccMag_mean**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyAccMag_std**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyAccMag_meanFreq**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyAccJerkMag_mean**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyAccJerkMag_std**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyAccJerkMag_meanFreq**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroMag_mean**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroMag_std**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroMag_meanFreq**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroJerkMag_mean**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroJerkMag_std**
+* content :   
+* source  :  
+* values  :  
+ 
 **fBodyBodyGyroJerkMag_meanFreq**
+* content :   
+* source  :  
+* values  :  
+ 
 **angle_tBodyAccMean_gravity**
-**angle_tBodyAccJerkMean_gravityMean** 
+* content :   
+* source  :  
+* values  :  
+ 
+**angle_tBodyAccJerkMean_gravityMean**
+* content :   
+* source  :  
+* values  :  
+  
 **angle_tBodyGyroMean_gravityMean**
+* content :   
+* source  :  
+* values  :  
+ 
 **angle_tBodyGyroJerkMean_gravityMean**
 * content :   
 * source  :  
