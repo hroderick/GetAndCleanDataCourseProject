@@ -6,9 +6,13 @@
 * values      : 1 through 30
  
 **Activity_Description** 
-* description :   
-* sources     :  
-* values      :  
+* description : This is a category of the observed activity when measurement was taken  
+* sources     : y_test.txt, y_train.txt, activity_labels.txt 
+* values      : WALKING
+, WALKING_UPSTAIRS
+, WALKING_DOWNSTAIRS, SITTING
+,  STANDING, LAYING
+ 
  
 **tBodyAcc_mean_X** 
 * description :   
