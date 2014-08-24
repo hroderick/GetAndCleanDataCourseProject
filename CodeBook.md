@@ -2,7 +2,7 @@
 * content : this is the id number of various participants in the study
 * source  : subject_test.txt, subject_train.txt
 * values  : 1 through 30
-
+ 
 **Activity_Description**
 **tBodyAcc_mean_X**
 **tBodyAcc_mean_Y**
@@ -87,6 +87,22 @@
 **angle_tBodyAccJerkMean_gravityMean** 
 **angle_tBodyGyroMean_gravityMean**
 **angle_tBodyGyroJerkMean_gravityMean**
+* content :   
+* source  :  
+* values  :  
+ 
 **angle_X_gravityMean**
+* content :   
+* source  :  
+* values  :  
+ 
 **angle_Y_gravityMean** 
+* content :   
+* source  :  
+* values  :  
+ 
 **angle_Z_gravityMean**
+* content :   
+* source  :  
+* values  :  
+ 
