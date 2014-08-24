@@ -7,7 +7,7 @@ Files included, listed here in no particular order include
   * README.md       - A guide to the repo
   * TidyData.txt    - the end result data file
   * CodeBook.md     - A guide to the contents of TidyData.txt
-  * run_analysis.R  - The R source code that wroter TidyData.txt
+  * run_analysis.R  - The R source code that built and wrote TidyData.txt
 
 I've chosen to not include raw data files or documentation. It can be found [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
@@ -36,7 +36,6 @@ I learned a lot from this project and feel it necessary to defend one shortcut t
 And to be fully open
   * Doing so took 10 minutes instead of 2 hours I'd be programming
   * And finally, other work in the script demonstrates that I could be successful had I determined to pull activity descriptions and column names from the raw data documentation using R.
-  * 
   
 #Thanks for your review
 
